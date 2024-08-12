@@ -1,0 +1,50 @@
+/* comentarios */
+
+
+*{
+  width: auto;
+  height: auto;
+}
+body{
+   font-family: bold;
+    width: 99%;
+    height: 100%;
+    background-color: black;
+    color: ghostwhite;
+}
+header{
+   background-color: black;
+   color: ghostwhite;
+   border: 1px;
+   border-style: dashed;
+}
+
+.img{
+    align-items: center;
+    border: 3px;
+    border-color: rgb(255, 255, 255);
+    border-style:groove;
+    border-radius: 10%;
+    width: 50%;
+}
+
+.fig1{
+    width: 20%;
+}
+
+.fig2{
+   width: 20%;
+}
+
+.fig3{
+    width: 20%;
+}
+
+.fig4{
+    width: 20%;
+}
+
+iframe{
+    width: 600px;
+    height: 600px;
+}
